@@ -1,13 +1,6 @@
 <h1 align="center">👋 Привет, я Матвей</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuhat время. Просто не ставлю иконки, а ставлю текст.
-
-Прикрепляю код.
-
-<h1 align="center">👋 Привет, я Матвей</h1>
-
-<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Веб-разработчик;Ищу+работу+удалённо;Люблю+создавать+веб-приложения" alt="Typing SVG" />
 </h3>
 
